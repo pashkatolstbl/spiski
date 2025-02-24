@@ -1,0 +1,145 @@
+body {
+    background-color: yellow;
+}
+
+h1 {
+    color: red;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+body {
+    background-color: rgb(6, 82, 10);
+
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: aqua;
+}
+
+.yellow {
+    color: yellow;
+}  
+.brown {
+color: brown;
+}
+body {
+    background-color: rgb(112, 146, 44);
+    background-color: rgb(119, 252, 208);
+
+}
+
+.red {
+    @@ -26, 14+26, 25 @@ color: green;
+}
+
+.blue {
+    color: aqua;
+    color: brown;
+}
+
+.yellow {
+    color: yellow;
+    background-color: green;
+}
+
+.brown {
+    color: brown;
+    color: yellow;
+}
+.yg {
+    color: yellowgreen;
+}
+
+.izd {
+    background-color: yellow;
+}
+
+.drug {
+    background-color: blueviolet;
+}
+body {
+    font-family: Arial, sans-serif;
+
+}
+.container {
+    background-color: #ffffcc;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+.bold {
+    font-weight: bold;
+}
+@keyframes moveText {
+    0% {
+        transform: translateX(0);
+    }
+
+    50% {
+        transform: translateX(100px);
+    }
+
+    100% {
+        transform: translateX(0);
+    }
+}
+
+.moving-text {
+    display: inline-block;
+    animation: moveText 3s infinite alternate ease-in-out;
+    color: red;
+    .Zagolovok {
+    font-size: 10px;
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
+.HTML {
+    color: blue;
+    text-decoration: underline;
+}
+
+.Naprimer {
+    margin-left: 200px;
+}
+
+.right {
+    color: red;
+}
+
+.left {
+    color: purple;
+}
+
+.up {
+    color: aqua;
+}
+.down {
+    color: orange;
+}
+.naprimer {
+    margin-left: 75px;
+}
+.prizma {
+    color: aqua;
+}
+.ot {
+    color: green;
+}
+.slovo {
+    margin-left: 10px;
+}
